@@ -30,13 +30,13 @@ INPUT_FOLDER=/volume1/SDCopyFolder
 SD_COPY_FOLDER_PREFIX=SDCopy
 
 # Photo output folder
-PHOTO_FOLDER=/volume1/photo/Date
+PHOTO_FOLDER=/volume1/photos
 
 # Video output folder
-VIDEO_FOLDER=/volume1/video/MTS
+VIDEO_FOLDER=/volume1/videos
 
 # exiftool
-exiftool="perl /lib/Image-ExifTool-9.24/exiftool"
+exiftool="perl /lib/exiftool"
 #--------------------------------------------------
 
 beep() {
