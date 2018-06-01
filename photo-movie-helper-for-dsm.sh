@@ -25,9 +25,9 @@
 LOG=/volume1/backup/photo-movie-helper.log
 
 # Input directory where imported files can be found
-INPUT_FOLDER=/volume1/SDCopyFolder
+INPUT_FOLDER=/volume1/general/Dropbox/Camera Uploads/CopyTest
 
-SD_COPY_FOLDER_PREFIX=SDCopy
+SD_COPY_FOLDER_PREFIX=TempSort
 
 # Photo output folder
 PHOTO_FOLDER=/volume1/photos
@@ -51,7 +51,7 @@ date +"%Y-%m-%d %H:%M:%S" >> $LOG
 echo "" >> $LOG
 
 # Call original files
-/usr/syno/bin/synousbcopy_renamed_by_ron >> $LOG
+/usr/syno/bin/synomediaprocessing_renamed_by_dave >> $LOG
 
 
 # Create output folder if necessary
