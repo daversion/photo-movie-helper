@@ -36,7 +36,7 @@ PHOTO_FOLDER=/volume1/photos
 VIDEO_FOLDER=/volume1/videos
 
 # exiftool
-exiftool="/volume1/@appstore/ExifTool/exiftool"
+exiftool="/volume1/@appstore/ExifTool"
 #--------------------------------------------------
 
 beep() {
