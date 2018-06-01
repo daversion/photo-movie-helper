@@ -22,7 +22,7 @@
 #--------------------------------------------------
 
 # Log file location
-LOG=/volume1/backup/photo-movie-helper.log
+LOG=/volume1/general/Dropbox/photo-movie-helper.log
 
 # Input directory where imported files can be found
 INPUT_FOLDER=/volume1/general/Dropbox/Camera Uploads/CopyTest
