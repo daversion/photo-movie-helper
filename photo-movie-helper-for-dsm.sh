@@ -25,7 +25,7 @@
 LOG=/volume1/general/Dropbox/photo-movie-helper.log
 
 # Input directory where imported files can be found
-INPUT_FOLDER=/volume1/general/Dropbox/Camera Uploads/CopyTest
+INPUT_FOLDER="/volume1/general/Dropbox/Camera Uploads/CopyTest"
 
 SD_COPY_FOLDER_PREFIX=TempSort
 
@@ -36,7 +36,7 @@ PHOTO_FOLDER=/volume1/photos
 VIDEO_FOLDER=/volume1/videos
 
 # exiftool
-exiftool="/volume1/@appstore/ExifTool"
+exiftool="/volume1/@appstore/ExifTool/exiftool"
 #--------------------------------------------------
 
 beep() {
