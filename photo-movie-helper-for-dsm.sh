@@ -25,7 +25,7 @@
 LOG=/volume1/general/Dropbox/photo-movie-helper.log
 
 # Input directory where imported files can be found
-INPUT_FOLDER=/volume1/general/Dropbox/Photos/CopyTest
+INPUT_FOLDER="/volume1/general/Dropbox/Photos/CopyTest"
 
 SD_COPY_FOLDER_PREFIX=TempSort
 
